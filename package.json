@@ -17,7 +17,7 @@
     "client-sessions": "^0.8.0",
     "assert": "^2.0.0",
     "ejs": "^2.7.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "password-hasher": "^1.0.1"
   },
   "repository": {
