@@ -84,45 +84,6 @@ WARNING! Don't lose your admin user credentials.
 * Compatible with offline systems.
 * Cross-Platform application.
 
-# Pictures
-
-## Search section
-![Search section](docs/images/version2.0.0/VersionsTrack-12-Search.png)
-
-## Guest Access
-### Versions Overview
-![Guest Version Overview](docs/images/version2.0.0/VersionsTrack-21-GuestVersionsList.png)
-
-### Login Page
-![Login Page](docs/images/version2.0.0/VersionsTrack-22-LoginPage.png)
-
-## Manager Access
-### Versions Overview
-![Manager Version Overview](docs/images/version2.0.0/VersionsTrack-24-ManagerAccessAddProperty.png)
-
-### Add new version
-![Add new version](docs/images/version2.0.0/VersionsTrack-210-AddNewVersion.png)
-
-### Modify version
-![Modify version](docs/images/version2.0.0/VersionsTrack-23-ModifyVersion.png)
-
-### Delete version
-![Delete version](docs/images/version2.0.0/VersionsTrack-25-DeleteVersion.png)
-
-## Side Navigation Bar
-![Side Navigation Bar](docs/images/version2.0.0/VersionsTrack-26-SideNav.png)
-
-## Admin Access
-### Admin Panel - Users Management
-#### View Users List
-![Admin Panel](docs/images/version2.0.0/VersionsTrack-27-AdminPanelUsersManagement.png)
-
-#### Modify User
-![Admin Panel](docs/images/version2.0.0/VersionsTrack-28-AdminPanelModifyUser.png)
-
-#### Create New User
-![Admin Panel](docs/images/version2.0.0/VersionsTrack-29-AdminPanelCreateNewUser.png)
-
 # TODO
 * *~~Limit versions count in a page.~~* :heavy_check_mark:
 * *~~Limit properties count in a page.~~* :heavy_check_mark:
